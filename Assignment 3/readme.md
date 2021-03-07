@@ -6,4 +6,3 @@ Button Styling: The button will raise upward and some shadow will appear at the 
 
 ![Demo](demo.gif)
 
-@http://projects.adsingh.net/?p=402
